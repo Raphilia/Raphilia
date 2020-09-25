@@ -7,5 +7,3 @@
 I'm just a person who typically play PC games during my free time and do a little bit of writing when I feel like it. I studied Computer Science for 2 years, recent projects include a [Discord bot](https://github.com/Raphilia/watame) and [food ordering website](https://github.com/Raphilia/food-creation).
 
 Overall just a shut-in NEET who waste his time a little too much ✨
-
-*PS: I also own [sleepingknights.moe](https://sleepingknights.moe)*
