@@ -1,5 +1,5 @@
 # Tenshi ![Status](https://img.shields.io/badge/Status-Alive-blue) ![Productivity](https://img.shields.io/badge/Productivity-Poor-red)
-![Ibuki](https://i.postimg.cc/wBfz9FyK/github-banner.jpg)
+![Ibuki](https://i.postimg.cc/j5Qjsxfw/twitch-banner.png)
 ### Hello World!
 
 [![Badge](https://img.shields.io/badge/-Steam-gray?logo=steam)](http://steamcommunity.com/id/Shoukaku) [![Badge](https://img.shields.io/badge/-Discord-gray?logo=discord&logoColor=white)](https://discord.com/users/243316261264556032)
