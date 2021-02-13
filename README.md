@@ -1,4 +1,4 @@
-# Shoukaku ![Status](https://img.shields.io/badge/Status-Alive-blue) ![Productivity](https://img.shields.io/badge/Productivity-Poor-red)
+# Tenshi ![Status](https://img.shields.io/badge/Status-Alive-blue) ![Productivity](https://img.shields.io/badge/Productivity-Poor-red)
 ![Ibuki](https://i.postimg.cc/wBfz9FyK/github-banner.jpg)
 ### Hello World!
 
